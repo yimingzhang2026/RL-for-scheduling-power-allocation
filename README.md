@@ -10,5 +10,5 @@ Run test_1_model.py to test 1 model in a continously changing environment. (Opti
 Run test_compare_2_benchmark.py to compare the trained model with benchmark algorithms including FP(fractional programming) and wmmse.
 ## Generate figures
 Run generate_result_for_models.py to generate result figures like figure1, figure2.
-https://github.com/yimingzhang2026/RL-for-scheduling-power-allocation/issues/1#issue-1379626559
+
 

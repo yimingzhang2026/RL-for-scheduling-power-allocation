@@ -9,7 +9,7 @@ Run test_delay_models.py to test multiple models under the same environment. (Op
 Run test_1_model.py to test 1 model in a continously changing environment. (Optional)
 Run test_compare_2_benchmark.py to compare the trained model with benchmark algorithms including FP(fractional programming) and wmmse.
 ## Generate figures
-Run generate_result_for_models.py to generate result figures like figure1, figure2.
+Run generate_result_for_models.py to generate result figures like the following.
 ![Figure 2022-09-10 182517 (1)](https://user-images.githubusercontent.com/91915172/191302721-c6a09a34-4581-4e1d-8b7c-3172ad779151.png)
-
+![Figure 2022-09-11 125856 (1)](https://user-images.githubusercontent.com/91915172/191302935-f6d2c043-69f9-44dd-9bd1-39bdaf874a58.png)
 

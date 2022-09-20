@@ -4,6 +4,7 @@
 Run train.py to train the DQN agents and models are saved in ./simulations folder
 ## Check convergence (optional)
 Run check_convergence.py to get the learning curve and neuron coefficients change in training.
+![Figure 2022-09-10 165958 (0)](https://user-images.githubusercontent.com/91915172/191305536-bcde456e-8eaf-483e-9ed3-570fa57d452c.png)
 ## Test
 Run test_delay_models.py to test multiple models under the same environment. (Optional)
 Run test_1_model.py to test 1 model in a continously changing environment. (Optional)
